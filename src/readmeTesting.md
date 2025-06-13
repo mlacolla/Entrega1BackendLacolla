@@ -20,6 +20,8 @@ De no contar con la ruta de url correcta se visualiza por ejemplo:
     "message": "Ruta '/api/product' no encontrada"
 }
 
+
+El codigo se encuentra en el reposotorio publico de> https://github.com/mlacolla/Entrega1BackendLacolla.git 
 ---------
 
 -TESTING Ruta para Manejo de Productos (/api/products/)
