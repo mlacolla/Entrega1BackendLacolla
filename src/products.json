@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Taza Bastardos sin gloria",
+    "description": "Taza con imagen de la Pelicula Bastardos sin gloria",
+    "code": "1",
+    "price": 800.9,
+    "status": true,
+    "stock": 60,
+    "category": "Peliculas",
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": "Taza Barbie",
+    "description": "Taza con imagen de la Pelicula Barbie",
+    "code": "2",
+    "price": 900.9,
+    "status": true,
+    "stock": 60,
+    "category": "Peliculas",
+    "thumbnails": []
+  }
+]
